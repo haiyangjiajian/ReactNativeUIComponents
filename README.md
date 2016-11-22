@@ -11,6 +11,6 @@ This is a repository that contains some ui components for react native, also can
 
 1. picker
 
-screen 1 | screen2
+picker screen 1 | picker screen2
 ------- | ---- 
-<img title="iOS" src="https://github.com/haiyangjiajian/TestRNIntegrationNative/blob/master/native-view.png"> | <img title="Android" src="https://github.com/haiyangjiajian/TestRNIntegrationNative/blob/master/react-native-view.png">
+<img title=picker 1" src="https://github.com/haiyangjiajian/ReactNativeUIComponents/blob/master/img/picker1.png"> | <img title="picker 2" src="https://github.com/haiyangjiajian/ReactNativeUIComponents/blob/master/img/picker2.png">
