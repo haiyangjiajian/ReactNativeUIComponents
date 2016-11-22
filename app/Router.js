@@ -61,7 +61,6 @@ export default class Router extends Component {
         return false;
       }
       this.lastBackPressed = Date.now();
-      Alert.alert('', '再按一次退出应用');
       return true;
     }
     return true;

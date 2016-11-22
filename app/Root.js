@@ -6,11 +6,12 @@ import {
   Navigator,
   View,
 } from 'react-native';
+import codePush from "react-native-code-push";
 
 
 import Router from './Router';
 
-export default class Root extends React.Component {
+class Root extends React.Component {
 
   render() {
     let initialRoute = {name: 'home', title: '主页', navBarHidden: false};
@@ -18,3 +19,7 @@ export default class Root extends React.Component {
   }
 
 }
+
+Root = codePush(Root);
+
+export default Root;
