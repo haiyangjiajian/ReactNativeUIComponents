@@ -17,7 +17,7 @@ DerivedData
 *.ipa
 *.xcuserstate
 project.xcworkspace
-.idea/
+.idea/*
 # Android
 #
 .gradle
@@ -28,6 +28,7 @@ local.properties
 /android/app/src/main/assets/index.android.bundle
 /android/crawler/build.gradle
 .buckconfig
+/android/.idea/*
 
 # node.js
 #
