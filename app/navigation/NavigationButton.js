@@ -115,11 +115,11 @@ if (Platform.OS === 'ios') {
     },
     navBarLeftButton: {
       paddingLeft: 8,
-      paddingTop: 4,
+      paddingTop: 0,
     },
     navBarRightLabel: {
       paddingRight: 8,
-      paddingTop: 4,
+      paddingTop: 0,
     },
     navBarRightIcon: {
       paddingRight: 8,

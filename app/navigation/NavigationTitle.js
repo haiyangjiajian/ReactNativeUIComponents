@@ -40,7 +40,7 @@ if (Platform.OS === 'ios') {
       color: 'white',
       fontWeight: '500',
       fontSize: 20,
-      marginVertical: 9,
+      marginVertical: 4,
     },
   });
 }
