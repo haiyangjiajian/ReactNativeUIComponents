@@ -5,7 +5,7 @@ import React from 'react';
 import HomeScreen from './component/HomeScreen'
 import PickerExampleScreen from './component/PickerExampleScreen'
 import WebViewScreen from './uiComponents/WebViewScreen'
-
+import TestWebviewOnMessage from './component/TestWebviewOnMessage'
 const AppRouters = {
 
   home: {
@@ -27,6 +27,12 @@ const AppRouters = {
     params: {
       url: '',
     }
+  },
+
+  testWebviewOnMessage: {
+    name: 'testWebviewOnMessage',
+    title: 'testWebviewOnMessage',
+    component: TestWebviewOnMessage,
   },
   
 
