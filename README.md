@@ -14,5 +14,5 @@ This is a repository that contains some ui components for react native, also can
 
 	picker screen 1 | picker screen2
 	------- | ---- 
-	![picker 1](https://github.com/haiyangjiajian/ReactNativeUIComponents/blob/master/img/picker1.png) | <img title="picker 2" src="https://github.com/haiyangjiajian/ReactNativeUIComponents/blob/master/img/picker2.png"/>
+	![picker 1](https://github.com/haiyangjiajian/ReactNativeUIComponents/blob/master/img/picker1.png) | ![picker 2](https://github.com/haiyangjiajian/ReactNativeUIComponents/blob/master/img/picker2.png)
 
